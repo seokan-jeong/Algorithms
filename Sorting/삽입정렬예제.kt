@@ -1,5 +1,5 @@
 fun main() {
-    // 선택 정렬(Selection Sort)
+    // 삽입 정렬(Insertion Sort)
     var array = arrayListOf<Int>(7, 5, 9, 0, 3, 1, 6, 2, 4, 8)
 
     for(i in 1 until array.size){
