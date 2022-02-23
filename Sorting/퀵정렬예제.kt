@@ -1,5 +1,5 @@
 fun main() {
-    // 선택 정렬(Selection Sort)
+    // 퀵 정렬(Quick Sort)
     var array = arrayListOf<Int>(7, 5, 9, 0, 3, 1, 6, 2, 4, 8)
 
     fun quick_sort(array: ArrayList<Int>, start: Int, end: Int){
